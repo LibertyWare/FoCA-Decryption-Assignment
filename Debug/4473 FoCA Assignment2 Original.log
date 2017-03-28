@@ -1,0 +1,10 @@
+﻿Build started 23/03/2017 15:02:25.
+     1>Project "F:\VisualStudio\FoCA\Assignment\4473 FoCA Assignment 2 Original\4473 FoCA Assignment2 Original\4473 FoCA Assignment2 Original.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VisualStudio\FoCA\Assignment\4473 FoCA Assignment 2 Original\Debug\4473 FoCA Assignment 2 Original.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\VisualStudio\FoCA\Assignment\4473 FoCA Assignment 2 Original\Debug\4473 FoCA Assignment 2 Original.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VisualStudio\FoCA\Assignment\4473 FoCA Assignment 2 Original\Debug\4473 FoCA Assignment 2 Original.lib" /MACHINE:X86 "Debug\4473 FoCA Assignment 2 2017 - Encryption Original with ASM.obj"
+         4473 FoCA Assignment2 Original.vcxproj -> F:\VisualStudio\FoCA\Assignment\4473 FoCA Assignment 2 Original\Debug\4473 FoCA Assignment 2 Original.exe
+     1>Done Building Project "F:\VisualStudio\FoCA\Assignment\4473 FoCA Assignment 2 Original\4473 FoCA Assignment2 Original\4473 FoCA Assignment2 Original.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.95

@@ -1,0 +1,288 @@
+
+
+FoCA Encryption program results (Adrian Oram) Encryption key = 'x'
+Date: 15/02/2017  Time: 18:50:10
+
+Original string =  Scran	Hex = 53  63  72  61  6e  
+
+Encrypted string = Tdsbo	Hex = 54  64  73  62  6f  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  
+
+-------------------------------------------------------------
+
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/02/2017  Time: 14:11:15
+
+Original string =  abcdef	Hex = 61  62  63  64  65  66  
+
+Encrypted string = ¶#¿;§3	Hex = b6  23  bf  3b  a7  33  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/02/2017  Time: 14:11:49
+
+Original string =  23435s	Hex = 32  33  34  33  35  73  
+
+Encrypted string = {æbæfç	Hex = 7b  e6  62  e6  66  e7  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/02/2017  Time: 14:39:00
+
+Original string =  abcdefghij	Hex = 61  62  63  64  65  66  67  68  69  6a  
+
+Encrypted string = ¶#¿;§3¯K×C	Hex = b6  23  bf  3b  a7  33  af  4b  d7  43  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  0  0  0  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/02/2017  Time: 14:40:38
+
+Original string =  acbdef	Hex = 61  63  62  64  65  66  
+
+Encrypted string = ¶'»;§3	Hex = b6  27  bb  3b  a7  33  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 06/03/2017  Time: 12:59:53
+
+Original string =  S	Hex = 53  
+
+Encrypted string = þ	Hex = fe  
+
+Decrypted string = Soon!	Hex = 53  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 09/03/2017  Time: 14:47:28
+
+Original string =  S	Hex = 53  
+
+Encrypted string = þ	Hex = fe  
+
+Decrypted string = Soon!	Hex = 53  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 09/03/2017  Time: 14:47:46
+
+Original string =  SSSSSS	Hex = 53  53  53  53  53  53  
+
+Encrypted string = þgÿgÿg	Hex = fe  67  ff  67  ff  67  
+
+Decrypted string = Soon!	Hex = 53  6f  6f  6e  21  0  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:45:09
+
+Original string =  test	Hex = 74  65  73  74  
+
+Encrypted string = b?û	Hex = 62  3f  7f  fb  
+
+Decrypted string = ñÓp—!	Hex = f1  d3  70  97  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:45:20
+
+Original string =  t	Hex = 74  
+
+Encrypted string = b	Hex = 62  
+
+Decrypted string = ñoon!	Hex = f1  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:46:39
+
+Original string =  t	Hex = 74  
+
+Encrypted string = boon!	Hex = 62  
+
+Decrypted string = ñoon!	Hex = f1  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:47:42
+
+Original string =  t	Hex = 74  
+
+Encrypted string = b	Hex = 62  
+
+Decrypted string = ñ	Hex = f1  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:47:50
+
+Original string =  b	Hex = 62  
+
+Encrypted string = º	Hex = ba  
+
+Decrypted string = t	Hex = 74  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:49:39
+
+Original string =  string	Hex = 73  74  72  69  6e  67  
+
+Encrypted string = ~û{OË7	Hex = 7e  fb  7b  4f  cb  37  
+
+Decrypted string = 0—0Ð7S	Hex = 30  97  30  d0  37  53  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:50:11
+
+Original string =  string	Hex = 73  74  72  69  6e  67  
+
+Encrypted string = ~û{OË7	Hex = 7e  fb  7b  4f  cb  37  
+
+Decrypted string = 0—0Ð7S	Hex = 30  97  30  d0  37  53  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:50:51
+
+Original string =  string	Hex = 73  74  72  69  6e  67  
+
+Encrypted string = ~û{OË7	Hex = 7e  fb  7b  4f  cb  37  
+
+Decrypted string = string	Hex = 73  74  72  69  6e  67  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:51:01
+
+Original string =  decryp	Hex = 64  65  63  72  79  70  
+
+Encrypted string = ¢?¿ã—ë	Hex = a2  3f  bf  e3  97  eb  
+
+Decrypted string = decryp	Hex = 64  65  63  72  79  70  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:52:56
+
+Original string =  STRING	Hex = 53  54  52  49  4e  47  
+
+Encrypted string = þ{ûÏK·	Hex = fe  7b  fb  cf  4b  b7  
+
+Decrypted string = string	Hex = 73  74  72  69  6e  67  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 14:59:40
+
+Original string =  STRING	Hex = 53  54  52  49  4e  47  
+
+Encrypted string = þ{ûÏK·	Hex = fe  7b  fb  cf  4b  b7  
+
+Decrypted string = STRING	Hex = 53  54  52  49  4e  47  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 15:00:01
+
+Original string =  STRING	Hex = 53  54  52  49  4e  47  
+
+Encrypted string = þ{ûÏK·	Hex = fe  7b  fb  cf  4b  b7  
+
+Decrypted string = string	Hex = 73  74  72  69  6e  67  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 16/03/2017  Time: 15:00:21
+
+Original string =  FOCA	Hex = 46  4f  43  41  
+
+Encrypted string = *×?¯	Hex = 2a  d7  3f  af  
+
+Decrypted string = foca	Hex = 66  6f  63  61  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/03/2017  Time: 14:03:41
+
+Original string =  Decryption	Hex = 44  65  63  72  79  70  74  69  6f  6e  
+
+Encrypted string = "?¿ã—ëcOÏS	Hex = 22  3f  bf  e3  97  eb  63  4f  cf  53  
+
+Decrypted string = decryption	Hex = 64  65  63  72  79  70  74  69  6f  6e  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/03/2017  Time: 14:41:30
+
+Original string =  volatile	Hex = 76  6f  6c  61  74  69  6c  65  
+
+Encrypted string = jWÃ/cOÃ?	Hex = 6a  57  c3  2f  63  4f  c3  3f  
+
+Decrypted string = volatile	Hex = 76  6f  6c  61  74  69  6c  65  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/03/2017  Time: 14:41:52
+
+Original string =  ASCII	Hex = 41  53  43  49  49  
+
+Encrypted string = 6g?ÏW	Hex = 36  67  3f  cf  57  
+
+Decrypted string = ascii	Hex = 61  73  63  69  69  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/03/2017  Time: 14:43:07
+
+Original string =  ThisExists	Hex = 54  68  69  73  45  78  69  73  74  73  
+
+Encrypted string = âK×ç'×çcç	Hex = e2  4b  d7  e7  27  b  d7  e7  63  e7  
+
+Decrypted string = thisexists	Hex = 74  68  69  73  65  78  69  73  74  73  
+
+-------------------------------------------------------------
+
+FoCA Encryption program results (Liberty Ware) Encryption key = 'u'
+Date: 23/03/2017  Time: 15:02:32
+
+Original string =  FOCA	Hex = 46  4f  43  41  
+
+Encrypted string = *×?¯	Hex = 2a  d7  3f  af  
+
+Decrypted string = foca	Hex = 66  6f  63  61  
+
+-------------------------------------------------------------
